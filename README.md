@@ -30,38 +30,20 @@ npm run start
 📦src
 ┣ 📂assets
 ┃ ┗ 📂icon
-┃ ┃ ┣ 📜Expand_icon.svg
-┃ ┃ ┣ 📜Failuare_icon.svg
-┃ ┃ ┣ 📜Success_icon.svg
-┃ ┃ ┗ 📜Superblock.svg
 ┣ 📂components
 ┃ ┣ 📂Background
-┃ ┃ ┗ 📜index.tsx
 ┃ ┣ 📂Dropdown
 ┃ ┃ ┣ 📂DropdownButton
-┃ ┃ ┃ ┗ 📜index.tsx
 ┃ ┃ ┣ 📂DropdownList
-┃ ┃ ┃ ┗ 📜index.tsx
-┃ ┃ ┗ 📜index.tsx
 ┃ ┣ 📂GameResultModal
-┃ ┃ ┗ 📜index.tsx
 ┃ ┣ 📂GameTable
-┃ ┃ ┗ 📜index.tsx
 ┃ ┗ 📂Title
-┃ ┃ ┗ 📜index.tsx
 ┣ 📂fonts
-┃ ┗ 📜Galmuri11-Bold.ttf
 ┣ 📂hooks
-┃ ┗ 📜index.ts
 ┣ 📂pages
 ┃ ┣ 📂Game
-┃ ┃ ┗ 📜index.tsx
 ┃ ┗ 📂Home
-┃ ┃ ┗ 📜index.tsx
 ┣ 📂store
-┃ ┣ 📜const.ts
-┃ ┣ 📜states.ts
-┃ ┗ 📜types.ts
 ┣ 📜App.tsx
 ┗ 📜index.tsx
 
