@@ -27,6 +27,7 @@ npm run start
 
 ## 폴더 구조
 
+```
 📦src
 ┣ 📂assets
 ┃ ┗ 📂icon
@@ -46,6 +47,7 @@ npm run start
 ┣ 📂store
 ┣ 📜App.tsx
 ┗ 📜index.tsx
+```
 
 ## 과제 진행
 
